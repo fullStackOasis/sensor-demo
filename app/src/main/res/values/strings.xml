@@ -5,4 +5,5 @@
     <string name="accelerometer_not_found">This device does not have an accelerometer</string>
     <string name="welcome">Welcome to Sensor Demo!</string>
     <string name="display_data">x: %f,\ny: %f,\nz: %f</string>
+    <string name="view_graph">View Graph</string>
 </resources>
