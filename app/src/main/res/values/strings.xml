@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="empty" />
+    <string name="notification_message">Accelerometer Service Started</string>
+    <string name="accelerometer_not_found">This device does not have an accelerometer</string>
+    <string name="welcome">Welcome to Sensor Demo!</string>
+    <string name="display_data">x: %f,\ny: %f,\nz: %f</string>
+</resources>
